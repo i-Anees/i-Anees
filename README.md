@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning VueJS and Cloud Computing.
 - 💞️ I’m looking to collaborate on integreting complex backend solutions to SPAs and Mobile Apps.
 - 📫 you can reach me at anees.laraveldev@gmail.com.
-- 😄 Pronouns: Anees
 - ⚡ Fun fact: I work better with heavy workload.
 
 <!---
